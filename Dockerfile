@@ -1,4 +1,4 @@
-FROM node:alpine
+FROM ibmcom/ibmnode
 
 WORKDIR "/app"
 
